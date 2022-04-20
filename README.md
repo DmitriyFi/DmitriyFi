@@ -12,5 +12,5 @@ Latest projects
 ![GitHub](https://img.shields.io/badge/-GitHub-7DA170?style=for-the-badge&logo=GitHub)
 
 
-
-Social media 
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-7DA170?style=for-the-badge&logo=Telegram)](https://t.me/popupfckup)
