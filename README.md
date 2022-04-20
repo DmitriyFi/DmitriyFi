@@ -4,7 +4,7 @@
 ## I'm a beginner QA Automation Engineer and Python Developer
 
 
-## My last projects:
+### My last projects:
 - [Basic api autotests for the "ipwhois" service.](https://github.com/DmitriyFi/autoTest_api)
 
 
