@@ -4,6 +4,10 @@
 ## I'm a beginner QA Automation Engineer and Python Developer
 
 
+## My last projects:
+- [Basic api autotests for the "ipwhois" service.](https://github.com/DmitriyFi/autoTest_api)
+
+
 ### Languages and tools
 ![Python](https://img.shields.io/badge/-Python-405d6f?style=for-the-badge&logo=Python)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-405d6f?style=for-the-badge&logo=Pycharm)
