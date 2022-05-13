@@ -5,7 +5,7 @@
 
 
 ### My last projects:
-- [Телеграм Бот для продаж и бизнеса.](https://github.com/DmitriyFi/VendorBot)
+- [Телеграм Бот для автоматизации бизнес процессов.](https://github.com/DmitriyFi/VendorBot)
 - [Basic api autotests for the "ipwhois" service.](https://github.com/DmitriyFi/autoTest_api)
 
 
