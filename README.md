@@ -5,8 +5,8 @@
 
 
 ### My last projects:
-- [Basic api autotests for the "ipwhois" service.](https://github.com/DmitriyFi/autoTest_api)
 - [Телеграм Бот для продаж и бизнеса.](https://github.com/DmitriyFi/VendorBot)
+- [Basic api autotests for the "ipwhois" service.](https://github.com/DmitriyFi/autoTest_api)
 
 
 ### Languages and tools
