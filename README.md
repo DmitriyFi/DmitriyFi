@@ -7,6 +7,7 @@
 ### My last projects:
 - [Телеграм Бот для автоматизации бизнес процессов.](https://github.com/DmitriyFi/VendorBot)
 - [Basic api autotests for the "ipwhois" service.](https://github.com/DmitriyFi/autoTest_api)
+- [Сайт написанный с помощью фреймворка Django.](https://github.com/DmitriyFi/DjangoBookstoreSite)
 
 
 ### Languages and tools
